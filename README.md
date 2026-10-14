@@ -105,18 +105,6 @@ erDiagram
     }
 ```
 
-## Protótipos de tela
-
-Link do protótipo (Figma): **COLE_AQUI_O_LINK**
-
-| Tela | Descrição |
-|------|-----------|
-| Menu principal | Botões de acesso às demais telas |
-| Cadastro de tecidos | Formulário + tabela com editar/excluir |
-| Movimentação de estoque | Registro de entrada/saída + histórico |
-| Clientes | Formulário + tabela de clientes |
-| Serviços | Formulário (cliente, datas, status, valor, tecidos usados) + tabela |
-
 ## Como executar
 
 Requisitos: JDK 11 ou superior. O driver do SQLite já está em `lib/`, e o banco (`costura.db`) é criado sozinho na primeira execução.
